@@ -15,78 +15,71 @@
     ]
   },
   {
-    "name": "Noel",
-    "id": "noel",
+    "name": "Cute 1",
+    "id": "cute1",
     "wallpapers": [
       "1.png",
       "2.png",
       "3.png",
       "4.png",
-      "5.png",
-      "6.png",
-      "7.png",
-      "8.png",
-      "9.png"
+      "5.png"
     ]
   },
   {
-    "name": "Noel",
-    "id": "noel",
+    "name": "Cute 2",
+    "id": "cute2",
     "wallpapers": [
       "1.png",
       "2.png",
       "3.png",
       "4.png",
-      "5.png",
-      "6.png",
-      "7.png",
-      "8.png",
-      "9.png"
+      "5.png"
     ]
   },
   {
-    "name": "Noel",
-    "id": "noel",
+    "name": "Wallpaper 1",
+    "id": "wallpaper1",
     "wallpapers": [
       "1.png",
       "2.png",
       "3.png",
       "4.png",
       "5.png",
-      "6.png",
-      "7.png",
-      "8.png",
-      "9.png"
+      "6.png"
     ]
   },
   {
-    "name": "Noel",
-    "id": "noel",
+    "name": "Wallpaper 2",
+    "id": "wallpaper2",
     "wallpapers": [
       "1.png",
       "2.png",
       "3.png",
       "4.png",
-      "5.png",
-      "6.png",
-      "7.png",
-      "8.png",
-      "9.png"
+      "5.png"
     ]
   },
   {
-    "name": "Noel",
-    "id": "noel",
+    "name": "Wallpaper 3",
+    "id": "wallpaper3",
     "wallpapers": [
       "1.png",
       "2.png",
       "3.png",
       "4.png",
       "5.png",
-      "6.png",
-      "7.png",
-      "8.png",
-      "9.png"
+      "6.png"
+    ]
+  },
+  {
+    "name": "Wallpaper 4",
+    "id": "wallpaper4",
+    "wallpapers": [
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png"
     ]
   }
 ]
