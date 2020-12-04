@@ -3,82 +3,81 @@
     "name": "Noel",
     "id": "noel",
     "wallpapers": [
-      "1.png",
-      "2.png",
-      "3.png",
-      "4.png",
-      "5.png",
-      "6.png",
-      "7.png",
-      "8.png"
+        "noel1.png",
+        "noel2.png",
+        "noel3.png",
+        "noel4.png",
+        "noel5.png",
+        "noel6.png",
+        "noel7.png",
+        "noel8.png"
     ]
   },
   {
-    "name": "Cute 1",
-    "id": "cute1",
+    "name": "Sweet",
+    "id": "sweet",
     "wallpapers": [
-      "1.png",
-      "2.png",
-      "3.png",
-      "4.png",
-      "5.png"
+        "sweet1.png",
+        "sweet2.png",
+        "sweet3.png",
+        "sweet4.png",
+        "sweet5.png",
+        "sweet6.png"
     ]
   },
   {
-    "name": "Cute 2",
+    "name": "Color",
+    "id": "color",
+    "wallpapers": [
+        "color1.png",
+        "color2.png",
+        "color3.png",
+        "color4.png",
+        "color5.png",
+        "color6.png"
+    ]
+  },
+  {
+    "name": "Building",
+    "id": "building",
+    "wallpapers": [
+        "building1.png",
+        "building2.png",
+        "building3.png",
+        "building4.png",
+        "building5.png"
+    ]
+  },
+  {
+    "name": "Nature",
+    "id": "nature",
+    "wallpapers": [
+        "nature1.png",
+        "nature2.png",
+        "nature3.png",
+        "nature4.png",
+        "nature5.png"
+    ]
+  },
+  {
+    "name": "Cute",
     "id": "cute2",
     "wallpapers": [
       "1.png",
       "2.png",
       "3.png",
-      "4.png",
-      "5.png"
+      "4.png"
     ]
   },
   {
-    "name": "Wallpaper 1",
-    "id": "wallpaper1",
+    "name": "Ocean",
+    "id": "ocean1",
     "wallpapers": [
-      "1.png",
-      "2.png",
-      "3.png",
-      "4.png",
-      "5.png",
-      "6.png"
-    ]
-  },
-  {
-    "name": "Wallpaper 2",
-    "id": "wallpaper2",
-    "wallpapers": [
-      "1.png",
-      "2.png",
-      "3.png",
-      "4.png",
-      "5.png"
-    ]
-  },
-  {
-    "name": "Wallpaper 3",
-    "id": "wallpaper3",
-    "wallpapers": [
-      "1.png",
-      "2.png",
-      "3.png",
-      "4.png",
-      "5.png",
-      "6.png"
-    ]
-  },
-  {
-    "name": "Wallpaper 4",
-    "id": "wallpaper4",
-    "wallpapers": [
-      "1.png",
-      "2.png",
-      "3.png",
-      "4.png",
-      "5.png"
+        "ocean1.png",
+        "ocean2.png",
+        "ocean3.png",
+        "ocean4.png",
+        "ocean5.png"
     ]
   }
 ]
